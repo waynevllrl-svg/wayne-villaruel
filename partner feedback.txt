@@ -1,0 +1,169 @@
+For this project, you and your partner will design, build, and present a personal portfolio website. You will use Git and GitHub to manage your project files and collaborate. Follow each step carefully and use the checklist to keep your work organized.
+
+Part 1 – Define Your Portfolio Purpose Before writing any code, talk with your partner about your goals. Discuss these questions:
+
+What is the main purpose of your portfolio?
+
+Who are you making it for (your audience)?
+
+What do you want visitors to think or feel about you?
+
+Which skills or accomplishments do you want to show off?
+
+Write a short purpose statement (2–3 sentences) for your portfolio. For example: “This portfolio introduces me as an aspiring web developer and highlights my skills and academic projects. It is mainly for potential employers and internship coordinators.”
+
+Part 2 – Plan Your Website Structure Create a simple sitemap to show how your website will be organized. Your website must include these pages:
+
+HOME
+
+ABOUT ME
+
+SKILLS
+
+PROJECTS
+
+CONTACT
+
+You can add more pages if you want (such as Education, Certifications, Achievements, Resume, Services, or Experience).
+
+Part 3 – Plan the Content for Each Page Decide what information will go on each page:
+
+Home: Your name, a short introduction, and a professional tagline.
+
+About Me: Your background, education, interests, and career goals.
+
+Skills: List both technical and soft skills.
+
+Projects: Describe at least 2 projects. For each, include the project title, a short description, technologies/tools used, your role, and an image or screenshot if you have one.
+
+Contact: Professional contact information (do NOT include sensitive info like passwords or private addresses).
+
+Part 4 – Build the HTML Pages Create the HTML files for your website in a folder named portfolio/.
+
+Required files: index.html, about.html, skills.html, projects.html, contact.html.
+
+Create a css/ folder for your stylesheet (style.css).
+
+Create an images/ folder for your images.
+
+Each page should use semantic HTML elements:
+
+<header>
+
+<nav>
+
+<main>
+
+Headings and sections
+
+<footer>
+
+Part 5 – Set Up Navigation Your navigation bar should appear the same on every page. It must include links to each main page:
+
+HOME | ABOUT ME | SKILLS | PROJECTS | CONTACT
+
+Make sure:
+
+Every link works and points to the correct page.
+
+Users can always return to the Home page easily.
+
+Part 6 – Apply CSS Design Create and link a CSS stylesheet to style your website. Your design should show:
+
+Typography: Use clear fonts, readable sizes, and clear headings.
+
+Layout: Use proper spacing, organize sections, and keep alignment consistent.
+
+Colors: Use color combinations that are easy to read and not overwhelming.
+
+Visual Design: Keep styling consistent, create a clear visual order, use appropriate images/icons, and make your site look professional.
+
+Part 7 – Make Your Site Accessible Review your portfolio for accessibility. Your site must include:
+
+Proper heading order (hierarchy)
+
+Good color contrast
+
+Descriptive alt text for images
+
+Readable text
+
+Meaningful link text
+
+Navigation that works with a keyboard
+
+Clear labels for any forms
+
+Ask your partner: “Can you understand and navigate my website without me explaining it?” If not, improve the areas that are confusing.
+
+Part 8 – Test Your Website Before you present, check every page:
+
+Content: All pages are present and complete. Check spelling and grammar. Make sure project descriptions are clear.
+
+Navigation: All links work. Navigation is the same on every page. Users can get back to Home.
+
+Design: Text is easy to read. Colors have enough contrast. Layout is tidy. There are no extra or unnecessary elements.
+
+Technical: CSS is linked correctly. Images show up. No broken links. Pages look right on different screens.
+
+Part 9 – Partner Evaluation Swap websites with another pair. Test their site and answer these:
+
+Is navigation easy to use?
+
+Is content organized?
+
+Is text readable?
+
+Is the design consistent?
+
+Is the website accessible?
+
+Do all links work?
+
+Does the site look professional?
+
+Give at least 3 specific suggestions for improvement. For example: “The Projects section is hard to read because the text and background colors are too similar.”
+
+Part 10 – Refine Your Portfolio After getting feedback:
+
+List the problems found.
+
+Decide which issues are most important to fix.
+
+Update your HTML and CSS.
+
+Test your changes.
+
+Review your website again to make sure it works well.
+
+Remember: Develop → Test → Receive Feedback → Improve → Test Again.
+
+Part 11 – Portfolio Progress Presentation Each pair will present their portfolio. In your presentation, explain:
+
+The purpose of your portfolio.
+
+Who your audience is.
+
+Why you chose your website pages and navigation.
+
+Why you chose your layout, colors, and fonts.
+
+What accessibility features you included.
+
+What problems you faced and how you solved them.
+
+What improvements you made after testing and feedback.
+
+What to Submit Each pair must turn in:
+
+The working portfolio website (all HTML files, CSS, and images) in a GitHub repository.
+
+A sitemap showing your website structure.
+
+A content plan outlining what’s on each page.
+
+A testing/feedback sheet from your partner pair.
+
+A short presentation about your portfolio and the changes you made.
+
+Throughout this project, use Git and GitHub to track your changes, share work with your partner, and submit your final website. Follow best practices for commits and collaboration.
